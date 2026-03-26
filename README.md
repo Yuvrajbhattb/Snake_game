@@ -5,7 +5,7 @@ A classic Snake game built using vanilla HTML5 Canvas, CSS, and JavaScript. The 
 ## Features
 
 - **HTML5 Canvas:** Rendering of the game board, snake, and food.
-- **Auto-Move AI:** The snake has a basic built-in auto-pathing algorithm to find food and try to avoid immediate collisions.
+- **Auto-Move AI:** The snake has a basic built-in auto-pathing Greedy algorithm to find food and try to avoid immediate collisions.
 - **Dynamic Scoring:** Keeps track of the current score as the snake eats food.
 - **Reset Functionality:** Easy restarting with a reset button.
 - **Responsive Controls:** Supports arrow keys for manual control (though currently running auto-move logic).
