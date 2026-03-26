@@ -1,4 +1,4 @@
-# Snake Game 🐍
+# Snake Game 
 
 A classic Snake game built using vanilla HTML5 Canvas, CSS, and JavaScript. The current version includes an auto-move feature where the snake calculates the closest path to the food while avoiding walls and its own body.
 
